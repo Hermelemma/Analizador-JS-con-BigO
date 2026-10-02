@@ -1,0 +1,38 @@
+.row-co {
+    background-color: rgba(222, 235, 247, 1) !important;
+}
+
+.row-lo {
+    background-color: rgba(107, 174, 214, 1) !important;
+    color:white !important;
+}
+
+.row-li {
+    background-color: rgba(8, 69, 148, 1) !important;
+    color:white !important;
+}
+
+.row-llo {
+    background-color: rgba(255, 165, 0, 1) !important;
+    color:white !important;
+}
+
+.row-cu {
+    background-color: rgba(205, 133, 0, 1) !important;
+    color:white !important;
+}
+
+.row-al {
+    background-color: rgba(255, 69, 0, 1) !important;
+    color:white !important;
+}
+
+.row-ex {
+    background-color: rgba(205, 55, 0, 1) !important;
+    color:white !important;
+}
+
+.row-fa {
+    background-color: rgba(255, 0, 0, 1) !important;
+    color:white !important;
+}
